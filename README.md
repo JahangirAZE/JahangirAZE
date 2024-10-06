@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on new projects<br>🌱 I’m currently learning Full-Stack (mainly Back-End) development<br>💬 Ask me about anything
+😊 Hi, I am Jahangir Alisoy<br>🔭 I’m currently working on new projects for remote internship<br>🌱 I’m currently learning Full-Stack (mainly Back-End) development<br>💬 Ask me about anything<br>📧 Reach me: cahangiralisoy313@gmail.com
 
 
 ## 🌐 Socials:
