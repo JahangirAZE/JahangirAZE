@@ -1,6 +1,11 @@
 # 💫 About Me:
-😊 Hi, I am Jahangir Alisoy<br>🔭 I’m currently working at ABB<br>🌱 I’m currently learning BackEnd (Java) development<br>💬 Ask me about anything<br>📧 Reach me: cahangiralisoy313@gmail.com
-
+😊 Hi, I'm Jahangir Alisoy  
+🔧 Backend Developer | Java & Spring Boot Enthusiast  
+🏢 Currently working at the International Bank of Azerbaijan  
+🚀 Passionate about building scalable and secure backend systems  
+🌱 Continuously improving my skills in Java, Spring Boot, and microservices  
+💬 Feel free to reach out to discuss tech, projects, or collaboration opportunities  
+📧 Email: cahangiralisoy313@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.jhngr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jahangiraze) 
